@@ -4,10 +4,7 @@ This semantic markup assignment focused on accessibility and improving an existi
  
 
 ## Visuals  
-Screenshot 2022-09-29 162050.png 
-Screenshot 2022-09-29 162622.png 
-Screenshot 2022-09-29 162658.png 
-
+[screenshot 1](https://github.com/mwambaugh/semantic-markup/blob/main/assets/images/Screenshot%202022-09-29%20162050.png?raw=true)
 
 ## Usage 
 This assignment usage is to assess student's ability to identify, replace and condense semantics in html and css for identical design results.  
