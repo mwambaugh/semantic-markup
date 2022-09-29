@@ -1,16 +1,21 @@
-# semantic-markup
+# semantic-markup 
 
-This semantic markup assignment focused on accessability and improving an exsisting CSS and HTML code given to students. Students worked to improve the code and not modify the design. Changes will improve search engine functionality and accessability to the website.
+This semantic markup assignment focused on accessibility and improving an existing CSS and HTML code given to students. Students worked to improve the code and not modify the design. Changes will improve search engine functionality and accessibility to the website. 
+ 
 
-## Visuals 
+## Visuals  
+Screenshot 2022-09-29 162050.png 
+Screenshot 2022-09-29 162622.png 
+Screenshot 2022-09-29 162658.png 
 
 
+## Usage 
+This assignment usage is to assess student's ability to identify, replace and condense semantics in html and css for identical design results.  
 
-## Usage
+ 
+## Contributing 
+This assignment was worked on by student, M.C. Wambaugh, with the support of her instructor John, TA's during office hours, classmates via SLACK, tutors and numerous dev community learning websites. Many thanks to those who continue to support learning in the technological community.   
 
 
-## Contributing
-This assignment was worked on by student, M.C. Wambaugh with the support of classmates, tutors and numerous dev community learning websites. 
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## License 
+[MIT](https://choosealicense.com/licenses/mit/) 
